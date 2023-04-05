@@ -1,10 +1,5 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<strong> To Do List </strong><br />
+
+O projeto consiste em desenvolver uma lista de tarefas onde é possível adicionar tarefas, marcar como concluída, excluir tarefas finalizadas, e apagar todas as tarefas.
+
+Desenvolvido utilizando _HTML, CSS e JavaScript_.
